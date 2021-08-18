@@ -1,5 +1,7 @@
 # MIT Scratch Clone project
 
+Deployed at: https://mit-scratch-clone-peeyush-goyal.netlify.app/
+
 ![image](https://user-images.githubusercontent.com/42883572/129966464-972f658a-fc79-481f-9983-69b795a2d701.png)
 ![image](https://user-images.githubusercontent.com/42883572/129966630-9dcbd470-d4c4-4c7d-b7eb-37496b770f08.png)
 ![image](https://user-images.githubusercontent.com/42883572/129966793-8ffc65fc-dae3-4395-877f-31de2b16768c.png)
@@ -36,6 +38,15 @@ This project covers main features of 4 sections of MIT Scratch
 * #### Control
   1. Wait for some duration
   2. Repeat certain functions for speicified amount of times
+
+### Tech Stack
+1. ReactJS
+
+#### Libraraies
+1. TailwindCSS
+2. Notistack
+3. Redux
+4. Material UI
 
 ##### NOTE:
 Almost All functions are attached with **transition**.
