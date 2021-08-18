@@ -1,6 +1,6 @@
 # MIT Scratch Clone project
 
-Deployed at: https://mit-scratch-clone-peeyush-goyal.netlify.app/
+Deployed at (Desktop Only): https://mit-scratch-clone-peeyush-goyal.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/42883572/129966464-972f658a-fc79-481f-9983-69b795a2d701.png)
 ![image](https://user-images.githubusercontent.com/42883572/129966630-9dcbd470-d4c4-4c7d-b7eb-37496b770f08.png)
