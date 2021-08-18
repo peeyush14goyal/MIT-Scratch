@@ -37,7 +37,7 @@ function MidArea({ area_list, add_list, event_values }) {
   const eventFire = (el, etype) => {
     if (el && el.fireEvent) {
       el.fireEvent("on" + etype);
-    } else {
+    } else if (el) {
       var evObj = document.createEvent("Events");
       evObj.initEvent(etype, true, false);
       el.dispatchEvent(evObj);
@@ -96,7 +96,7 @@ function MidArea({ area_list, add_list, event_values }) {
         i++;
       }
       // If Repeat component is at previous index
-      else if (arr[i - 1] === "REPEAT" && repeat > 1) {
+      else if (arr[i - 1] === "REPEAT" && repeat > 2) {
         let str2 = `comp${arr[i]}-${id}-${i}`;
         eventFire(document.getElementById(str2), "click");
         repeat--;
