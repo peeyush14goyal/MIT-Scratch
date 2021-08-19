@@ -52,6 +52,8 @@ This project covers main features of 4 sections of MIT Scratch
 Almost All functions are attached with **transition**.
 There might be some delay in executing few functions. I know you would be very much excited for seeing it in action. 😄. Just a little patience 😊
 
+## DO NOT COPY OR USE THIS FOR ANY COMMERCIAL PURPOSES
+
 To get started:
 
 - Run `npm i` to install dependencies
