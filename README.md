@@ -1,4 +1,6 @@
-# MIT Scratch Clone project
+# MIT Scratch project
+
+Inspired from MIT Scratch
 
 Deployed at (Desktop Only): https://mit-scratch-clone-peeyush-goyal.netlify.app/
 
